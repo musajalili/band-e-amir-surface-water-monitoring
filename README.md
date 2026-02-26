@@ -100,12 +100,12 @@ https://colab.research.google.com/drive/1yhO_yYAgZUqpe0p67-arie81zz31XMbR?usp=sh
 ---
 
 ## 📂 Repository Structure
-band-e-amir-surface-water-monitoring/
-│
-├── README.md
-├── LICENSE
-├── gee_script/
-│ └── band_e_amir_surface_water.js
+band-e-amir-surface-water-monitoring/<br>
+│<br>
+├── README.md<br>
+├── LICENSE<br>
+├── gee_script/<br>
+│ └── band_e_amir_surface_water.js<br>
 │
 ├── notebooks/
 │ ├── GRACE_analysis.ipynb
