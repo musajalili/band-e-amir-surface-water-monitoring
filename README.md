@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains the implementation and workshop report for:
 
@@ -46,7 +46,7 @@ All satellite processing was conducted using Google Earth Engine.
 
 ---
 
-## 📊 Methodology Summary
+## Methodology Summary
 
 ### 1️⃣ Surface Water Temperature (2024–2025)
 - LST derived from Landsat ST_B10 band  
@@ -81,7 +81,7 @@ Terrestrial Water Storage Anomaly trend analysis for:
 - Global scale  
 
 📎 **Colab Link:**  
-https://colab.research.google.com/drive/YOUR_GRACE_NOTEBOOK_LINK
+https://colab.research.google.com/drive/1tsdq0eHVM001RR9N7-1VZ9Z_xpmcABX4?usp=sharing 
 
 ---
 
@@ -95,8 +95,46 @@ Includes:
 - Seasonal visualization  
 
 📎 **Colab Link:**  
-https://colab.research.google.com/drive/YOUR_LAKELST_NOTEBOOK_LINK
+https://colab.research.google.com/drive/1yhO_yYAgZUqpe0p67-arie81zz31XMbR?usp=sharing 
 
 ---
 
 ## 📂 Repository Structure
+band-e-amir-surface-water-monitoring/
+│
+├── README.md
+├── LICENSE
+├── gee_script/
+│ └── band_e_amir_surface_water.js
+│
+├── notebooks/
+│ ├── GRACE_analysis.ipynb
+│ └── LakeLST_analysis.ipynb
+│
+├── report/
+│ └── WorkshopReport.pdf
+│
+└── results/
+└── figures/
+
+## 📖 Citation
+
+If you use this work, please cite:
+
+Jalili, M. (2025).  
+*Surface Water Monitoring and Water Storage Mapping: A Case Study of Band-e Amir Lake, Bamyan, Afghanistan.*  
+Zenodo. https://doi.org/10.5281/zenodo.18784299
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.  
+See the LICENSE file for details.
+
+---
+
+## 🔬 Keywords
+
+Remote Sensing • Google Earth Engine • GRACE • Landsat • Lake Surface Temperature • Hydrology • Afghanistan • Water Storage • Climate Variability
+
