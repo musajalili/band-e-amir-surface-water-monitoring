@@ -106,16 +106,16 @@ band-e-amir-surface-water-monitoring/<br>
 ├── LICENSE<br>
 ├── gee_script/<br>
 │ └── band_e_amir_surface_water.js<br>
-│
-├── notebooks/
-│ ├── GRACE_analysis.ipynb
-│ └── LakeLST_analysis.ipynb
-│
-├── report/
-│ └── WorkshopReport.pdf
-│
-└── results/
-└── figures/
+│<br>
+├── notebooks/<br>
+│ ├── GRACE_analysis.ipynb<br>
+│ └── LakeLST_analysis.ipynb<br>
+│<br>
+├── report/<br>
+│ └── WorkshopReport.pdf<br>
+│<br>
+└── results/<br>
+└── figures/<br>
 
 ## 📖 Citation
 
